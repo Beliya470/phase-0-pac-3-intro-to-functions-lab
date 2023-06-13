@@ -1,3 +1,4 @@
+const { shout, whisper, logShout, logWhisper, sayHiToHeadphonedRoommate } = require('../index.js');
 require ( './root.js' );
 
 
